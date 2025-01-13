@@ -2,7 +2,7 @@
 // Database configuration
 $host = "";
 $username = "admin";
-$password = "awsprojectdb";
+$password = "rdsprojectdb";
 $dbname = "project";
 
 // Connect to the database
