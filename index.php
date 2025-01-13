@@ -1,9 +1,9 @@
 <?php
 // Database configuration
-$host = "project-db.crugb7zb1zuj.us-east-1.rds.amazonaws.com";
-$username = "root";
-$password = "awsproject";
-$dbname = "awsproject";
+$host = "";
+$username = "admin";
+$password = "awsprojectdb";
+$dbname = "project";
 
 // Connect to the database
 $conn = new mysqli($host, $username, $password, $dbname);
